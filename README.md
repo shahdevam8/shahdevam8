@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Captain DRS!
+# 👋 Hi there, I'm Shah Devam (Yawning Crocodile)
 
 🎓 **BSc Student | Network & Cloud Security | AI/ML Enthusiast | Tech Explorer**
 
