@@ -23,16 +23,6 @@ I’m passionate about building secure, scalable, and intelligent systems. From 
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech Used |
-|----------|--------------|------------|
-| **🔗 Link Scanner** | Scans URLs for accessibility, safety, and potential malicious redirects. | Python |
-| **🌐 Website Auditor** | Analyzes website SEO, SSL, and performance metrics with security checks. | Python |
-| **🖥️ Network & Server System** | Simulated secure Cisco + Ubuntu environment with routing and ACLs. | Cisco, GNS3, Ubuntu |
-| **🧠 Cyber Threat Intelligence** | Automates threat data collection and classification from open sources. | Python |
-
----
-
 ### 🌍 Beyond Tech
 I also work on digital awareness programs — helping **rural communities understand social media safety** and bridge the gap between **traditional lifestyles and modern technology**.  
 
