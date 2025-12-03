@@ -29,8 +29,7 @@ I also work on digital awareness programs — helping **rural communities unders
 ---
 
 ### 💬 Let’s Connect
-💼 [LinkedIn](#) &nbsp;•&nbsp; 🌐 [Portfolio](#) &nbsp;•&nbsp; 🐦 [Twitter](#) &nbsp;•&nbsp; 📰 [CaptainDRS Media](https://captaindrs.wordpress.com)
-
+💼 [LinkedIn](https://www.linkedin.com/in/devam-shah008/) &nbsp;•&nbsp; 🌐 [Portfolio](#) &nbsp;•&nbsp;
 ---
 
 > *"Dream big, secure smarter, and keep learning every byte at a time."* ⚡
