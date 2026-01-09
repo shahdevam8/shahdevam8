@@ -43,4 +43,8 @@ I’m passionate about **building secure, intelligent, and scalable systems**. F
 I’m a **tech explorer, gamer, and nature enthusiast**. Exploring the **gaming universe**, staying curious about **AI innovations**, and enjoying the **beauty of nature** keeps my mind creative and inspired. I love combining my technical skills with real-world problem-solving to create meaningful solutions.  
 
 ---
+## 💬 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/devam-shah/008) 
+
+---
 > *"Dream big, secure smarter, and keep learning every byte at a time."* ⚡
