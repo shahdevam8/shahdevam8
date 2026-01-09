@@ -44,7 +44,7 @@ I’m a **tech explorer, gamer, and nature enthusiast**. Exploring the **gaming 
 
 ---
 ## 💬 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/devam-shah/008) 
+[LinkedIn](https://www.linkedin.com/in/devam-shah008/) 
 
 ---
 > *"Dream big, secure smarter, and keep learning every byte at a time."* ⚡
