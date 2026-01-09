@@ -1,35 +1,54 @@
 # 👋 Hi there, I'm Shah Devam (Yawning Crocodile)
+ **BSc Student | Network & Cloud Security | AI/ML Explorer | Tech Tinkerer**
 
-🎓 **BSc Student | Network & Cloud Security | AI/ML Enthusiast | Tech Explorer**
+I’m all about **building smarter, safer, and cooler tech**. Whether it’s designing **rock-solid cloud networks**, cooking up **AI/ML security tools**, or diving into the latest **game-tech trends**, I love exploring how tech can make life easier — and a little more fun.  
 
-I’m passionate about building secure, scalable, and intelligent systems. From designing **secure cloud architectures** to creating **AI-powered security tools**, my projects revolve around making technology safer, smarter, and more accessible — especially for people stepping into the digital world.
-
----
-
-### 🔐 What I Do
-- 🌩️ **Network & Cloud Security:** Firewall configs, ACLs, server setups, and network monitoring  
-- 🧠 **AI/ML for Security:** Real-time anomaly detection, automated log analysis, and reconnaissance tools  
-- 🖥️ **Web & App Development:** HTML, CSS, JS, and dynamic WordPress builds  
-- 🧾 **Digital Forensics & Compliance:** Risk assessments, audits, and documentation for secure IT systems  
+![Tech GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ---
 
-### ⚙️ Tech Stack & Tools
-💻 **Languages:** Python, C, C++, JavaScript, Go, Shell Scripting  
-☁️ **Cloud & Networking:** AWS, Cisco Packet Tracer, GNS3, Ubuntu Server  
-🔍 **Security Tools:** Wireshark, Nmap, Burp Suite, Nessus, Snort  
-🧠 **AI/ML:** Scikit-learn, Pandas, TensorFlow (basics)  
-🛠️ **Other Tools:** Git, Linux, WordPress, SEO, Canva  
+## 🔐 What I’m Up To
+
+### 🌩️ Network & Cloud Security
+![Network GIF](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)  
+- Fortifying networks with firewalls & ACLs like a digital locksmith  
+- Monitoring live traffic and sniffing out threats 🕵️‍♂️  
+- Building cloud setups that scale and stay secure  
+
+### 🧠 AI/ML for Security
+![AI GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+- Detecting anomalies before they become nightmares  
+- Automating log analysis like a pro  
+- Recon and pattern spotting with AI-powered tools  
+
+### 🖥️ Web & App Fun
+![Web GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)  
+- Crafting clean, responsive websites with **HTML, CSS & JS**  
+- Dynamic **WordPress** builds optimized for speed & SEO  
+
+### 🧾 Digital Forensics & Compliance
+![Security GIF](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)  
+- Risk assessments, audits, and documentation ninja moves  
+- Keeping IT systems aligned with ISO 27001, NIST & other standards  
 
 ---
 
-### 🌍 Beyond Tech
-I also work on digital awareness programs — helping **rural communities understand social media safety** and bridge the gap between **traditional lifestyles and modern technology**.  
+## ⚙️ My Toolbox
+
+**💻 Languages:** Python | C | C++ | JavaScript | Go | Shell Scripting  
+**☁️ Cloud & Networking:** AWS | Cisco Packet Tracer | GNS3 | Ubuntu Server  
+**🔍 Security Gear:** Wireshark | Nmap | Burp Suite | Nessus | Snort  
+**🧠 AI/ML Playground:** Scikit-learn | Pandas | TensorFlow (basics)  
+**🛠️ Bonus Tools:** Git | Linux | WordPress | SEO | Canva  
 
 ---
 
-### 💬 Let’s Connect
-💼 [LinkedIn](https://www.linkedin.com/in/devam-shah008/) &nbsp;•&nbsp; 🌐 [Portfolio](#) &nbsp;•&nbsp;
+## 🌍 Beyond Tech
+I’m passionate about the **gaming world**, exploring **new tech innovations**, and staying connected with **nature’s wonders**. These interests inspire my projects, fuel creativity, and keep me curious about how technology can enhance our everyday lives.  
+
 ---
+
+## 💬 Let’s Connect & Geek Out
+[LinkedIn](https://www.linkedin.com/in/devam-shah/008) • (UNDER CONSTRUCTION)[Portfolio](#)  
 
 > *"Dream big, secure smarter, and keep learning every byte at a time."* ⚡
